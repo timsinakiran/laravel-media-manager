@@ -1,18 +1,18 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "timsinakiran/laravel-media-manager",
+    "description": "Works well with vanilla Laravel or Even FilamentPHP",
     "keywords": [
-        ":vendor_name",
+        "timsinakiran",
         "laravel",
-        ":package_slug"
+        "laravel-media-manager"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/timsinakirna/laravel-media-manager",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
-            "role": "Developer"
+            "name": "Kiran Timsina",
+            "email": "kiran@ugcakes.com",
+            "role": "Co Founder"
         }
     ],
     "require": {
